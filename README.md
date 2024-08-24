@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prabod Chamika</h1>
-<h3 align="center">Crafting Seamless Digital Experiences</h3>
+<h1 align="center">✨ Welcome to My World of Code! ✨</h1>
+<h2 align="center">I'm Prabod Chamika, Your Full-Stack Developer</h2>
+<h3 align="center">Creating Magical Digital Experiences, One Line of Code at a Time</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabodchamika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
