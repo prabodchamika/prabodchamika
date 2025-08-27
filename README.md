@@ -1,35 +1,41 @@
-# 👋 Hi, I'm Prabod Chamika
+# Prabod Chamika
 **Full-Stack Developer | ReactJS, Node.js, Next.js**
 
 ---
 
 ## About Me
-I build scalable web applications and intuitive digital experiences.  
-Currently exploring **Cybersecurity & Ethical Hacking** to enhance my skill set.
+I am a passionate Full-Stack Developer focused on building scalable and maintainable web applications.  
+I enjoy transforming ideas into functional digital solutions. Currently expanding my skills in **Cybersecurity & Ethical Hacking**.
 
 ---
 
 ## Skills
 
 **Frontend:**  
-HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS  
+HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS
 
 **Backend & Databases:**  
-Node.js, PHP, MySQL, MongoDB  
+Node.js, PHP, MySQL, MongoDB
 
-**Tools & Others:**  
-Git, Linux, Figma, Python  
+**Tools & Platforms:**  
+Git, Linux, Figma, Postman, Python
+
+---
+
+## Professional Projects
+- Developed **portfolio websites** and **business web applications** using ReactJS, Next.js, and Node.js.  
+- Created **custom UI/UX designs** in Figma for client projects.  
+- Implemented **RESTful APIs and database management** with MongoDB and MySQL.  
 
 ---
 
 ## Contact
-📧 Email: [prabodchamikar@gmail.com](mailto:prabodchamikar@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/prabodchamika](https://linkedin.com/in/prabodchamika)  
-🌐 Facebook: [fb.com/prabodchamika](https://fb.com/prabodchamika)  
-📸 Instagram: [instagram.com/prabodchamika](https://instagram.com/prabodchamika)  
+- **Email:** [prabodchamikar@gmail.com](mailto:prabodchamikar@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/prabodchamika](https://linkedin.com/in/prabodchamika)  
+- **GitHub:** [github.com/prabodchamika](https://github.com/prabodchamika)
 
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prabodchamika&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabodchamika&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabodchamika&layout=compact&theme=radical)
