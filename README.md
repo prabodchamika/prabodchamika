@@ -4,21 +4,36 @@
 ---
 
 ## About Me
-I build scalable web applications and intuitive digital experiences.  
-Currently exploring **Cybersecurity & Ethical Hacking** to enhance my skill set.
+I design and build **real-time industrial and business control systems**, including **SCADA dashboards, automation workflows, and monitoring systems**.  
+My goal is to **turn complex processes into clear, efficient, and intelligent systems** 🚀.  
+Currently exploring **IoT integration, advanced system automation, and real-time analytics** to level up industrial control solutions.  
 
 ---
 
 ## Skills
 
-**Frontend:**  
-HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS  
+**System & SCADA Development:**  
+- SCADA Systems  
+- PLC Programming  
+- Automation Workflows  
+- Real-time Monitoring  
+- Data Dashboards  
 
-**Backend & Databases:**  
-Node.js, PHP, MySQL, MongoDB  
+**Programming & Scripting:**  
+- Python  
+- PHP  
+- Node.js  
+- SQL  
+- JavaScript
+- Python 
 
-**Tools & Others:**  
-Git, Linux, Figma, Python  
+**Tools & Platforms:**  
+- Linux  
+- Git  
+- Docker  
+- MQTT  
+- Grafana  
+- Figma  
 
 ---
 
@@ -32,4 +47,11 @@ Git, Linux, Figma, Python
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prabodchamika&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabodchamika&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabodchamika&layout=compact&theme=radical)  
+
+---
+
+## Featured Projects
+- **Industrial SCADA Dashboard** – Real-time monitoring and control for manufacturing processes.  
+- **Automation Workflow System** – Streamlined operations with PLC and IoT integration.  
+- **Business Control Platform** – Centralized dashboards for sales, inventory, and alerts.  
