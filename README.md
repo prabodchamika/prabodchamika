@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prabod Chamika
-**Full-Stack Developer | ReactJS, Node.js, Next.js**
+**System Engineer | SCADA Developer | Industrial Automation & Control Systems**
 
 ---
 
